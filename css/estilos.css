@@ -8,7 +8,7 @@ div {
 }
 
 #elemento {
-  transform:  perspective(800px)
+  transform:  perspective(8000px)
               rotateX(-30deg)
               rotateY(45deg);
 }
